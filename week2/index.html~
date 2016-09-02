@@ -6,14 +6,12 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div class="row">
-		<div class="col-lg-4 col-md-6"></div>
-		<div class="col-lg-4 col-md-6"></div>
-		<div class="col-lg-4 col-md-6">Magic happens here!</div>
-		<div class="col-lg-4 col-md-6">Magic happens here!</div>
-		<div class="col-lg-4 col-md-6">Magic happens here!</div>
-		<div class="col-lg-4 col-md-6"></div>	
-	</div>
+	<h1>Indian Cuisine</h1>
+	<section class="row">
+		<section class="col-lg-4 col-md-6"></div>
+		<section class="col-lg-4 col-md-6"></div>
+		<section class="col-lg-4 col-md-12">Magic happens here!</div>
+	</section>
 	<!--
 	<h1>Indian Cuisine</h1>
 	<section>
